@@ -1,0 +1,19 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "Web-Crawler for the Boot.Dev course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mahalel/web-crawler.git"
+  },
+  "author": "mahalel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahalel/web-crawler/issues"
+  },
+  "homepage": "https://github.com/mahalel/web-crawler#readme"
+}
